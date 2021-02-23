@@ -1,5 +1,6 @@
 # beats_app
-
+![](./screen/1.png)
+![](./screen/2.png)
 A new Flutter project.
 
 ## Getting Started
